@@ -1,1 +1,28 @@
-# ssss
+<html>
+    <head>
+        <title>SSSS degree college</title>
+        <link rel="stylesheet" href="style1.css">
+    </head>
+    <body>
+         <div class="homepage">
+            <div class="header">
+                <div class="h-list">
+                    <ol>
+                    <a href="ssss.html"><li>Home</li></a>
+                    <a href="student-corner.html"><li>Student Corner</li></a>
+                    <a href="about-college.html"><li>About College</li></a>
+                    <a href="contact-us.html"><li>Contact US</li></a>
+                    </ol>
+                </div>
+            </div>
+            <div class="middle">
+                <table>
+                    <tr><td><img src="ssssdcvzm.jpeg" alt="SSSS image"></td><td><img src="ssssdcvzm.jpeg" alt="SSSS image"></td><td><img src="ssssdcvzm.jpeg" alt="SSSS image"></td><td><img src="ssssdcvzm.jpeg" alt="SSSS image"></td><td><img src="ssssdcvzm.jpeg" alt="SSSS image"></td></tr>
+                </table>
+            </div>
+            <footer>
+            <h5>Designed By Gorle Upendra</h5>
+            </footer>
+         </div>
+    </body>
+</html>
